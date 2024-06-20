@@ -49,8 +49,10 @@
     <Reports>@(Report)</Reports>
   </PropertyGroup>
   <ItemGroup>
-    <Report Include="Profesor.rdl" />
-    <Report Include="ReportePrueba.rdl" />
+    <Report Include="Alumnos.rdl" />
+    <Report Include="Cursos.rdl" />
+    <Report Include="Dashboard.rdl" />
+    <Report Include="Profesores.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
