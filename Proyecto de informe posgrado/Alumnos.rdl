@@ -374,7 +374,7 @@
             <Top>1.42557cm</Top>
             <Left>0.50271cm</Left>
             <Height>5.60854cm</Height>
-            <Width>11.16404cm</Width>
+            <Width>13.7305cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -827,10 +827,10 @@
               </Style>
             </ChartNoDataMessage>
             <DataSetName>AlumnoEstadisticas</DataSetName>
-            <Top>0.65801cm</Top>
-            <Left>11.84314cm</Left>
+            <Top>0.658cm</Top>
+            <Left>16.28813cm</Left>
             <Height>6.37611cm</Height>
-            <Width>13.10599cm</Width>
+            <Width>14.77287cm</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
@@ -1197,14 +1197,13 @@
             </ChartLegends>
             <ChartTitles>
               <ChartTitle Name="Default">
-                <Caption>Título del gráfico</Caption>
+                <Caption>Presentismo</Caption>
                 <Style>
                   <BackgroundGradientType>None</BackgroundGradientType>
                   <FontSize>9pt</FontSize>
-                  <FontWeight>Normal</FontWeight>
+                  <FontWeight>Bold</FontWeight>
                   <TextAlign>Left</TextAlign>
                   <VerticalAlign>Top</VerticalAlign>
-                  <Color>#a6a6a6</Color>
                 </Style>
                 <Position>TopLeft</Position>
               </ChartTitle>
@@ -1230,7 +1229,7 @@
             <Top>7.21051cm</Top>
             <Left>0.50271cm</Left>
             <Height>7.11667cm</Height>
-            <Width>24.44641cm</Width>
+            <Width>30.55828cm</Width>
             <ZIndex>3</ZIndex>
             <Style>
               <Border>
@@ -1242,10 +1241,10 @@
             </Style>
           </Chart>
         </ReportItems>
-        <Height>7.35267in</Height>
+        <Height>5.89434in</Height>
         <Style />
       </Body>
-      <Width>10.06609in</Width>
+      <Width>12.43067in</Width>
       <Page>
         <PageHeader>
           <Height>2.98979cm</Height>
@@ -1288,7 +1287,7 @@
               <Value>images</Value>
               <Sizing>FitProportional</Sizing>
               <Top>0.3175cm</Top>
-              <Left>22.65537cm</Left>
+              <Left>28.74079cm</Left>
               <Height>2.36361cm</Height>
               <Width>2.32021cm</Width>
               <ZIndex>1</ZIndex>

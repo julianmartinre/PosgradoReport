@@ -123,6 +123,9 @@ FROM            KPIReportView</CommandText>
                       <Style />
                     </ChartDataLabel>
                   </ChartEmptyPoints>
+                  <ChartItemInLegend>
+                    <LegendText>Objetivo</LegendText>
+                  </ChartItemInLegend>
                   <ValueAxisName>Primary</ValueAxisName>
                   <CategoryAxisName>Primary</CategoryAxisName>
                   <ChartSmartLabel>
@@ -454,7 +457,7 @@ FROM            KPIReportView</CommandText>
             <Top>0.36724cm</Top>
             <Left>0.58208cm</Left>
             <Height>9.7625cm</Height>
-            <Width>18.16271cm</Width>
+            <Width>28.98417cm</Width>
             <Style>
               <Border>
                 <Color>LightGrey</Color>
@@ -523,6 +526,9 @@ FROM            KPIReportView</CommandText>
                       <Style />
                     </ChartDataLabel>
                   </ChartEmptyPoints>
+                  <ChartItemInLegend>
+                    <LegendText>Objetivo</LegendText>
+                  </ChartItemInLegend>
                   <ValueAxisName>Primary</ValueAxisName>
                   <CategoryAxisName>Primary</CategoryAxisName>
                   <ChartSmartLabel>
@@ -559,6 +565,9 @@ FROM            KPIReportView</CommandText>
                       <Style />
                     </ChartDataLabel>
                   </ChartEmptyPoints>
+                  <ChartItemInLegend>
+                    <LegendText>Actual</LegendText>
+                  </ChartItemInLegend>
                   <ValueAxisName>Primary</ValueAxisName>
                   <CategoryAxisName>Primary</CategoryAxisName>
                   <ChartSmartLabel>
@@ -854,7 +863,7 @@ FROM            KPIReportView</CommandText>
             <Top>10.65953cm</Top>
             <Left>0.58208cm</Left>
             <Height>9.7625cm</Height>
-            <Width>18.16271cm</Width>
+            <Width>28.98417cm</Width>
             <ZIndex>1</ZIndex>
             <Style>
               <Border>
@@ -866,10 +875,10 @@ FROM            KPIReportView</CommandText>
             </Style>
           </Chart>
         </ReportItems>
-        <Height>8.23809in</Height>
+        <Height>8.22767in</Height>
         <Style />
       </Body>
-      <Width>7.57512in</Width>
+      <Width>11.84734in</Width>
       <Page>
         <PageHeader>
           <Height>2.88396cm</Height>
@@ -912,7 +921,7 @@ FROM            KPIReportView</CommandText>
               <Value>images</Value>
               <Sizing>FitProportional</Sizing>
               <Top>0.34396cm</Top>
-              <Left>16.42458cm</Left>
+              <Left>27.24604cm</Left>
               <Height>2.36361cm</Height>
               <Width>2.32021cm</Width>
               <ZIndex>1</ZIndex>

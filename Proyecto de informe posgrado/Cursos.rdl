@@ -194,6 +194,7 @@
                     </ChartDataPoint>
                   </ChartDataPoints>
                   <Type>Shape</Type>
+                  <Subtype>ExplodedPie</Subtype>
                   <Style />
                   <ChartEmptyPoints>
                     <Style />
@@ -516,6 +517,9 @@
                     </ChartAxisScaleBreak>
                   </ChartAxis>
                 </ChartValueAxes>
+                <ChartThreeDProperties>
+                  <Enabled>true</Enabled>
+                </ChartThreeDProperties>
                 <Style>
                   <BackgroundColor>#00ffffff</BackgroundColor>
                   <BackgroundGradientType>None</BackgroundGradientType>
@@ -574,7 +578,7 @@
             <Top>0.50271cm</Top>
             <Left>0.39688cm</Left>
             <Height>6.77333cm</Height>
-            <Width>9.55146cm</Width>
+            <Width>12.22375cm</Width>
             <Style>
               <Border>
                 <Color>LightGrey</Color>
@@ -975,9 +979,9 @@
             </ChartNoDataMessage>
             <DataSetName>AlumnoCursoAprobación</DataSetName>
             <Top>0.50271cm</Top>
-            <Left>10.65953cm</Left>
+            <Left>18.78224cm</Left>
             <Height>6.77333cm</Height>
-            <Width>8.16146cm</Width>
+            <Width>11.44229cm</Width>
             <ZIndex>1</ZIndex>
             <Style>
               <Border>
@@ -1137,6 +1141,8 @@
                         <Color>#5c5c5c</Color>
                       </Style>
                     </ChartAxisTitle>
+                    <Interval>1</Interval>
+                    <IntervalType>Number</IntervalType>
                     <ChartMajorGridLines>
                       <Enabled>False</Enabled>
                       <Style>
@@ -1403,7 +1409,7 @@
             <Top>7.72266cm</Top>
             <Left>0.39688cm</Left>
             <Height>7.48709cm</Height>
-            <Width>18.42411cm</Width>
+            <Width>29.82765cm</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
@@ -1561,6 +1567,8 @@
                         <Color>#5c5c5c</Color>
                       </Style>
                     </ChartAxisTitle>
+                    <Interval>1</Interval>
+                    <IntervalType>Number</IntervalType>
                     <ChartMajorGridLines>
                       <Enabled>False</Enabled>
                       <Style>
@@ -1827,7 +1835,7 @@
             <Top>15.38613cm</Top>
             <Left>0.39688cm</Left>
             <Height>7.48709cm</Height>
-            <Width>18.42411cm</Width>
+            <Width>29.82765cm</Width>
             <ZIndex>3</ZIndex>
             <Style>
               <Border>
@@ -1842,7 +1850,7 @@
         <Height>9.20312in</Height>
         <Style />
       </Body>
-      <Width>7.55208in</Width>
+      <Width>12.10416in</Width>
       <Page>
         <PageHeader>
           <Height>2.75167cm</Height>
@@ -1884,8 +1892,8 @@
               <Source>Embedded</Source>
               <Value>images</Value>
               <Sizing>FitProportional</Sizing>
-              <Top>0.18521cm</Top>
-              <Left>16.50078cm</Left>
+              <Top>0.24695cm</Top>
+              <Left>27.90432cm</Left>
               <Height>2.36361cm</Height>
               <Width>2.32021cm</Width>
               <ZIndex>1</ZIndex>
